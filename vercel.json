@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/**/*.[jt]s": { "runtime": "vercel-deno@0.8.0" }
+  },
+  "rewrites": []
+}
